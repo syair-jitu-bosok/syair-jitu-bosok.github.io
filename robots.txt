@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-jitu-bosok.github.io/sitemap.xml
